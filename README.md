@@ -35,7 +35,8 @@ jupyter notebook finding_donors.ipynb
 
 This will open the iPython Notebook software and project file in your browser.
 
-**Goal of the Project**
+### Goal of the Project
+
 The goal of the project is to explore various models based on supervised learning techniques that will allow us to identify potential donors for our fictitious charity by using available information from census data. The model will take as inputs the features described in the section below and will classify a potential donor as earning more than or at most $50k per year, the threshold below which our charity has determined that it is not worth calling the potential donor.
 
 ### Data
